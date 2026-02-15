@@ -30,3 +30,11 @@ Custom 2000+ fashion product dataset inspired by H&M e-commerce structure.
 
 ## Author
 Radhika Kakad
+
+git init
+git add .
+git commit -m "Initial commit - Hybrid AI Fashion Platform"
+git branch -M main
+git remote add origin https://github.com/yourusername/GlamFit-AI-Hybrid-Search.git
+git push -u origin main
+
